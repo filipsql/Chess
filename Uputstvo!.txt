@@ -1,0 +1,3 @@
+Program se nalazi u folderu "Final Version". Da biste pokrenuli program, potrebno je otvoriti "chess v2.exe" fajl i igrica ce vam automatski sama krenuti. Ukoliko imate problema pri pokretanju, proverite da li se folder "80" nalazi u folderu programa, kao i da li su vam sve potrebne visual studio ekstenzije instalirane (visual studio runtime itd).
+
+Izvorni kod se nalazi u folderu "chess v2" i radjen je u c#, .net destkop formi koriscenjem Visual Studia 2019.
