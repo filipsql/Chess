@@ -1,0 +1,11 @@
+C:\Users\Filip\source\repos\chess v2\chess v2\bin\Debug\chess v2.exe.config
+C:\Users\Filip\source\repos\chess v2\chess v2\bin\Debug\chess v2.exe
+C:\Users\Filip\source\repos\chess v2\chess v2\bin\Debug\chess v2.pdb
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess v2.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess_v2.Form1.resources
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess_v2.Properties.Resources.resources
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess v2.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess v2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess v2.exe
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess v2.pdb
+C:\Users\Filip\source\repos\chess v2\chess v2\obj\Debug\chess_v2.Form2.resources
